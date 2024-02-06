@@ -16,7 +16,7 @@ public class primechecker2 {
         }
         else{
             System.out.println(a+" is not prime");
-        }
+        }sc.close();
     }
     
 }
