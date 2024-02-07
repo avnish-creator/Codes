@@ -6,7 +6,7 @@ public class primechecker2 {
         int a = sc.nextInt();
 
         boolean x = true;
-        for(int i = 22; i<=a-1; i++){
+        for(int i = 2; i<=a-1; i++){
             if(a%i==0){
                 x = false;
             }
