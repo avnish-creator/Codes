@@ -15,7 +15,9 @@ public class continuestatementquestion {
             }
             System.out.println("Returned number: "+num1);
             
-        }while(true);
+        }
+        while(true);
+        
     }
 }
 
